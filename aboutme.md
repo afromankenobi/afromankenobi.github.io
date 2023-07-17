@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: I'm not that crazy
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I'm Jorge. A lot of things are happening everywhere, so here are some things about me:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I'm software developer, working with [Ruby on Rails](https://rubyonrails.org).
+- I'm using [BeautifulJekyll.com](BeautifulJekyll.com) for this site and is awesome.
+- I'm married and have 4 kids, kind of crazy right?
+- I play the guitar sometimes.
+- I go to church Saturdays, [SDA](https://www.adventist.org) be like.
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+In this site i have a Calendly button if you want to talk with me :). If you're a writting person, [jorge.vargas@hey.com](jorge.vargas@hey.com).
+If you're here is for a reason, so don't be shy :).
