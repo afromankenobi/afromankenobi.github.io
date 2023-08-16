@@ -1,14 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: I'm not that crazy
+subtitle: Just a dev
 ---
 
-I'm Jorge. A lot of things are happening everywhere, so here are some things about me:
+I'm Jorge. here are some things about me:
 
 - I'm software developer, working with [Ruby on Rails](https://rubyonrails.org).
 - I'm using [BeautifulJekyll.com](BeautifulJekyll.com) for this site and is awesome.
-- I'm married and have 4 kids, kind of crazy right?
+- I'm married and have 4 kids.
 - I play the guitar sometimes.
 - I go to church Saturdays, [SDA](https://www.adventist.org) be like.
 
