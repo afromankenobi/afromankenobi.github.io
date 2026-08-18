@@ -3,6 +3,7 @@ layout: post
 title: Binding custom development domains
 subtitle: Using dnsmasq on macOS
 tags: [mac development]
+mermaid: true
 ---
 
 I've been programming for many years, and I always avoided using custom domains on my local machine. For small to medium projects, going to `localhost:3000` wasn't so terrible. But in recent years I've worked with multi-tenancy per subdomain and groups of interconnected applications, each with its own subdomain.
