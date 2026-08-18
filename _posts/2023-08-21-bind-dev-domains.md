@@ -34,7 +34,7 @@ For our local DNS server, we first tell macOS which queries to send to it, then 
 
 ### Step zero: decide a domain to point localhost
 
-There are many options, such as `example.internal` or `example.test`, but avoid:
+There are various options, such as `example.internal` or `example.test`, but avoid:
 
 - `.local`: macOS uses it for [Bonjour services](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/NetServices/Articles/domainnames.html).
 - `.dev`: it is a real top-level domain and browsers require HTTPS for it.
