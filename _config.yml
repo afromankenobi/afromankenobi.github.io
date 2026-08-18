@@ -22,6 +22,9 @@ defaults:
     values:
       layout: default
 
+plugins:
+  - jekyll-turbo
+
 exclude:
   - CNAME
   - Gemfile
