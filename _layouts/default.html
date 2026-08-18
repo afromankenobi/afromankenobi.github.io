@@ -9,12 +9,6 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
-    {% if page.mermaid %}
-      <script type="module">
-        import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs";
-        mermaid.initialize({ startOnLoad: true, theme: "dark" });
-      </script>
-    {% endif %}
   </head>
   <body>
     <div class="shell">
@@ -38,5 +32,11 @@
         <span>{{ site.time | date: '%Y' }}</span>
       </footer>
     </div>
+    {% if page.mermaid %}
+      <script type="module">
+        import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs";
+        mermaid.initialize({ startOnLoad: true, theme: "dark" });
+      </script>
+    {% endif %}
   </body>
 </html>
