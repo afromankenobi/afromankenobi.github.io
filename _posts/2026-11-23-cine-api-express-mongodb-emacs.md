@@ -1,5 +1,4 @@
 ---
-published: false
 layout: post
 title: "Una API de películas con Express, MongoDB y Emacs"
 tags: [javascript, express, mongodb, docker, emacs]
